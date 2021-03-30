@@ -1,0 +1,6 @@
+vendor/
+node_modules/
+docker/
+mariadb_persistent/
+nginx/
+docker-compose.yml
