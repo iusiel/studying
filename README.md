@@ -26,31 +26,31 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML
 
 Semantic HTML or semantic markup is HTML that introduces meaning to the web page rather than just presentation. For example, a <p> tag indicates that the enclosed text is a paragraph. This is both semantic and presentational because people know what paragraphs are, and browsers know how to display them.
 
-https://developer.mozilla.org/en-US/docs/Glossary/semantics#semantics_in_html
-https://www.thoughtco.com/why-use-semantic-html-3468271
+https://developer.mozilla.org/en-US/docs/Glossary/semantics#semantics_in_html  
+https://www.thoughtco.com/why-use-semantic-html-3468271  
 https://html.com/semantic-markup/
 
 ### SEO (Search Engine Optimization)
 
 Making your content search-friendly matters because it's how you get more relevant users viewing your content. This is called search engine optimization (SEO), which can result in more interested users coming to your site.
 
-https://developers.google.com/search/docs/advanced/guidelines/get-started-developers
-https://moz.com/learn/seo/seo-cheat-sheet
+https://developers.google.com/search/docs/advanced/guidelines/get-started-developers  
+https://moz.com/learn/seo/seo-cheat-sheet  
 https://web.dev/lighthouse-seo/
 
 ### Accessibility
 
 Accessibility is the practice of making your websites usable by as many people as possible. We traditionally think of this as being about people with disabilities, but the practice of making sites accessible also benefits other groups such as those using mobile devices, or those with slow network connections.
 
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility  
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility  
 https://www.w3.org/WAI/fundamentals/accessibility-intro/
 
 ### Validation
 
 Ignoring the issue of your website pages validation can lead to your website being below W3C standards. As a result, your website will most likely suffer from errors or poor traffic owing to poor formatting and readability.
 
-https://medium.com/@evgenyeugeneshapira/why-do-you-need-to-validate-your-website-html-8ba176ecca9f
+https://medium.com/@evgenyeugeneshapira/why-do-you-need-to-validate-your-website-html-8ba176ecca9f  
 https://validator.w3.org/
 
 ## CSS
