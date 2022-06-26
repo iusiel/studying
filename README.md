@@ -7,7 +7,7 @@ In order to study a topic effectively, I think you need to do the following for 
 1. Learn the basic definition.
 1. Why do you need to learn it.
 1. How do you use it.
-1. Do some exercises (Do at least 1 per day. You can determine the total number of exercises. For me, the ideal total woule be between 10 to 20)
+1. Do some exercises (Do at least 1 per day. You can determine the total number of exercises. For me, the ideal total would be between 10 to 20)
 1. Set up continuous learning. This is to make sure that you retain some knowledge of what you have studied. My suggestions for this are to use SRS (spaced repetition software), regularly do exercises (maybe once or twice a week) or make sure that you are applying what you have learned in your projects.
 
 ## HTML
