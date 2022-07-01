@@ -29,6 +29,8 @@ Semantic HTML or semantic markup is HTML that introduces meaning to the web page
 https://developer.mozilla.org/en-US/docs/Glossary/semantics#semantics_in_html  
 https://www.thoughtco.com/why-use-semantic-html-3468271  
 https://html.com/semantic-markup/
+<br/><br/>
+[More information...](html/semantic.md)
 
 ### SEO (Search Engine Optimization)
 
