@@ -21,11 +21,11 @@ Most websites (if not all) uses HTML as markup language for their content. Befor
 
 ## Exercises
 
-1. Create a basic HTML file with a header "Hello World".
-1. Create a HTML document with 3 paragraphs.
-1. Create a HTML document embedded with an image.
-1. Create a HTML document with 1 ordered list and 1 unordered list. Each list must have at least 3 items.
-1. Create a HTML document with a first level header. It must also have 1 list (either ordered or unordered). Each item on the list must have a text with a corresponding image next to it.
+1. Create a basic HTML file with a header "Hello World". - [Sample](../exercises/html/basics/1.md)
+1. Create a HTML document with 3 paragraphs. - [Sample](../exercises/html/basics/2.md)
+1. Create a HTML document embedded with an image. - [Sample](../exercises/html/basics/3.md)
+1. Create a HTML document with 1 ordered list and 1 unordered list. Each list must have at least 3 items. - [Sample](../exercises/html/basics/4.md)
+1. Create a HTML document with a first level header. It must also have 1 list (either ordered or unordered). Each item on the list must have a text with a corresponding image next to it. - [Sample](../exercises/html/basics/5.md)
 
 ## References
 
