@@ -24,12 +24,12 @@ Some of the benefits from writing semantic markup are as follows:
 
 ## Exercises
 
-1. Name at least 10 semantic elements and explain their use.
-1. Create a HTML document that uses `<header>`, `<main>` and `<footer>`.
-1. Add a caption to an `<img>` element.
-1. Create a navigation menu with nested links using `<nav>`.
-1. Create a disclosure widget that only displays the information when it is open.
-1. Create a HTML document with multiple headers and paragraphs.
+1. Name at least 10 semantic elements and explain their use. - [Sample](../exercises/html/semantic/1.md)
+1. Create a HTML document that uses `<header>`, `<main>` and `<footer>`. - [Sample](../exercises/html/semantic/2.md)
+1. Add a caption to an `<img>` element. - [Sample](../exercises/html/semantic/3.md)
+1. Create a navigation menu with nested links using `<nav>`. - [Sample](../exercises/html/semantic/4.md)
+1. Create a disclosure widget that only displays the information when it is open. - [Sample](../exercises/html/semantic/5.md)
+1. Create a HTML document with multiple headers and paragraphs. - [Sample](../exercises/html/semantic/6.md)
 
 ## References
 
