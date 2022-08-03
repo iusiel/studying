@@ -48,6 +48,8 @@ https://developer.mozilla.org/en-US/docs/Learn/Accessibility
 https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility  
 https://www.w3.org/WAI/fundamentals/accessibility-intro/
 
+[More information...](html/accessibility.md)
+
 ### Validation
 
 Ignoring the issue of your website pages validation can lead to your website being below W3C standards. As a result, your website will most likely suffer from errors or poor traffic owing to poor formatting and readability.
