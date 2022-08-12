@@ -109,9 +109,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_trans
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Tips  
 https://css-tricks.com/almanac/properties/a/animation/
 
-### Linting
-
-#### Stylelint
+### Stylelint
 
 A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 
@@ -119,23 +117,95 @@ https://stylelint.io/
 
 ## JS
 
+JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc.
+
 ### Basics
 
-- Data types
-- Control structures
-- Functions
+JavaScript is a programming language that allows you to implement complex things on web pages. Every time a web page does more than just sit there and display static information for you to look at—displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, or more—you can bet that JavaScript is probably involved.
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics  
+https://www.javascript.com/learn  
+https://www.geeksforgeeks.org/roadmap-to-learn-javascript-for-beginners/
 
 ### DOM Manipulation
 
-### NPM
+When writing web pages and apps, one of the most common things you'll want to do is manipulate the document structure in some way. This is usually done by using the Document Object Model (DOM), a set of APIs for controlling HTML and styling information that makes heavy use of the Document object
 
-### Import/export
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents  
+https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/
+
+### Package managers
+
+#### npm
+
+npm is two things: first and foremost, it is an online repository for the publishing of open-source Node.js projects; second, it is a command-line utility for interacting with said repository that aids in package installation, version management, and dependency management.
+
+https://docs.npmjs.com/downloading-and-installing-node-js-and-npm  
+https://www.tutorialspoint.com/nodejs/nodejs_npm.htm
+
+#### yarn
+
+Yarn is a package manager for your code. It allows you to use and share code with other developers from around the world.
+
+https://yarnpkg.com/getting-started/install  
+https://yarnpkg.com/getting-started/usage
+
+### Modules
+
+As our application grows bigger, we want to split it into multiple files, so called “modules”. A module may contain a class or a library of functions for a specific purpose.
+
+For a long time, JavaScript existed without a language-level module syntax. That wasn’t a problem, because initially scripts were small and simple, so there was no need.
+
+But eventually scripts became more and more complex, so the community invented a variety of ways to organize code into modules, special libraries to load modules on demand.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+https://javascript.info/modules-intro
+
+#### Export / Import
+
+The export declaration is used to export values from a JavaScript module. The static import declaration is used to import read-only live bindings which are exported by another module.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import  
+https://javascript.info/import-export
 
 ### Class
 
-### Frameworks
+Classes are a template for creating objects. They encapsulate data with code to work on that data. Classes in JS are built on prototypes but also have some syntax and semantics that are not shared with ES5 class-like semantics.
 
-### Linting
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
+
+### ES2015
+
+ECMAScript 2015 or ES2015 is a significant update to the JavaScript programming language. It is the first major update to the language since ES5 which was standardized in 2009. Therefore, ES2015 is often called ES6.
+
+https://www.javascripttutorial.net/es6/  
+https://dev.to/vedanthb/es6-handbook-12bd
+
+### Client-side frameworks
+
+JavaScript frameworks are an essential part of modern front-end web development, providing developers with tried and tested tools for building scalable, interactive web applications. Many modern companies use frameworks as a standard part of their tooling, so many front-end development jobs now require framework experience.
+
+#### React
+
+https://reactjs.org/tutorial/tutorial.html
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#react_tutorials
+
+#### Vue.JS
+
+https://vuejs.org/guide/introduction.html
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#vue_tutorials
+
+#### Svelte
+
+https://svelte.dev/tutorial/basics
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#svelte_tutorials
+
+### ESLint
+
+ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
+
+https://eslint.org/
 
 ## PHP
 
