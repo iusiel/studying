@@ -109,7 +109,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_trans
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Tips  
 https://css-tricks.com/almanac/properties/a/animation/
 
-### Stylelint
+### Linting
 
 A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 
@@ -158,7 +158,7 @@ For a long time, JavaScript existed without a language-level module syntax. That
 
 But eventually scripts became more and more complex, so the community invented a variety of ways to organize code into modules, special libraries to load modules on demand.
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules  
 https://javascript.info/modules-intro
 
 #### Export / Import
@@ -188,20 +188,20 @@ JavaScript frameworks are an essential part of modern front-end web development,
 
 #### React
 
-https://reactjs.org/tutorial/tutorial.html
+https://reactjs.org/tutorial/tutorial.html  
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#react_tutorials
 
 #### Vue.JS
 
-https://vuejs.org/guide/introduction.html
+https://vuejs.org/guide/introduction.html  
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#vue_tutorials
 
 #### Svelte
 
-https://svelte.dev/tutorial/basics
+https://svelte.dev/tutorial/basics  
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#svelte_tutorials
 
-### ESLint
+### Linting
 
 ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
 
