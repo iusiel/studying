@@ -209,17 +209,51 @@ https://eslint.org/
 
 ## PHP
 
+PHP is a general-purpose scripting language geared toward web development.
+
 ### Basics
 
-- Data types
-- Control structures
-- Functions
+PHP is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.
+
+https://www.php.net/manual/en/tutorial.php
+https://www.sitepoint.com/php-beginners-guide/
+https://www.php.net/manual/en/language.types.php
+https://www.php.net/manual/en/language.control-structures.php
+https://www.php.net/manual/en/language.functions.php
 
 ### Class
 
+PHP includes a complete object model. Some of its features are: visibility, abstract and final classes and methods, additional magic methods, interfaces, and cloning.
+
+PHP treats objects in the same way as references or handles, meaning that each variable contains an object reference rather than a copy of the entire object.
+
+https://www.php.net/manual/en/language.oop5.basic.php
+https://www.geeksforgeeks.org/php-classes/
+
 ### Composer
 
+A Dependency Manager for PHP.
+
+https://getcomposer.org/doc/00-intro.md
+https://getcomposer.org/doc/01-basic-usage.md
+
 ### Frameworks
+
+#### Laravel
+
+Laravel is a free and open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony.
+
+https://laravel.com/docs/9.x
+https://laravel.com/docs/9.x/lifecycle
+
+#### Symfony
+
+Symfony is a free and open-source PHP web application framework and a set of reusable PHP component libraries.
+
+https://symfony.com/doc/current/setup.html
+https://symfony.com/doc/current/page_creation.html
+
+### PHP Powered Applications
 
 ### Linting
 
