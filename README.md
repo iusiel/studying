@@ -255,7 +255,51 @@ https://symfony.com/doc/current/page_creation.html
 
 ### PHP Powered Applications
 
+#### WordPress
+
+WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database with supported HTTPS. Features include a plugin architecture and a template system, referred to within WordPress as Themes.
+
+https://wordpress.org/support/article/overview-of-wordpress/
+https://www.hostinger.com/tutorials/wordpress
+
+#### Drupal
+
+Drupal is a free and open-source web content management system written in PHP and distributed under the GNU General Public License. Drupal provides an open-source back-end framework for at least 14% of the top 10,000 websites worldwide and 1.2% of the top 10 million websites—ranging from personal blogs to corporate, political, and government sites.
+
+https://www.drupal.org/docs/official_docs/en/_local_development_guide.html
+
+#### Magento
+
+Magento is an open-source e-commerce platform written in PHP. It uses multiple other PHP frameworks such as Laminas and Symfony.
+
+https://devdocs.magento.com/guides/v2.4/install-gde/install-flow-diagram.html
+https://developer.adobe.com/commerce/php/development/
+
 ### Linting
+
+#### PHP CodeSniffer
+
+PHP_CodeSniffer is a set of two PHP scripts; the main phpcs script that tokenizes PHP, JavaScript and CSS files to detect violations of a defined coding standard, and a second phpcbf script to automatically correct coding standard violations. PHP_CodeSniffer is an essential development tool that ensures your code remains clean and consistent.
+
+https://github.com/squizlabs/PHP_CodeSniffer
+
+#### PHP Mess Detector
+
+PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly and easy to configure frontend for the raw metrics measured by PHP Depend.
+
+https://phpmd.org/
+
+#### PHP Copy Paste Detector
+
+phpcpd is a Copy/Paste Detector (CPD) for PHP code.
+
+https://github.com/sebastianbergmann/phpcpd
+
+#### PHP Magic Number Detector
+
+phpmnd is a tool that aims to help you to detect magic numbers in your PHP code.
+
+https://github.com/povils/phpmnd
 
 ## MySQL
 
