@@ -275,6 +275,14 @@ Magento is an open-source e-commerce platform written in PHP. It uses multiple o
 https://devdocs.magento.com/guides/v2.4/install-gde/install-flow-diagram.html
 https://developer.adobe.com/commerce/php/development/
 
+### Testing
+
+PHPUnit is a programmer-oriented testing framework for PHP.
+It is an instance of the xUnit architecture for unit testing frameworks.
+
+https://phpunit.de/
+https://phpunit.de/getting-started/phpunit-9.html
+
 ### Linting
 
 #### PHP CodeSniffer
