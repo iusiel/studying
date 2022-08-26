@@ -309,24 +309,50 @@ phpmnd is a tool that aims to help you to detect magic numbers in your PHP code.
 
 https://github.com/povils/phpmnd
 
-## MySQL
+## Relational Databases
 
-### Basics
+A relational database management system (RDBMS) is a collection of programs and capabilities that enable IT teams and others to create, update, administer and otherwise interact with a relational database.
 
-- select
-- insert
-- update
-- delete
-- where
-- where in
-- order by
-- limit
+### MySQL
 
-### Joins
+MySQL is a widely used relational database management system (RDBMS).
 
-### View
+https://www.mysql.com/  
+https://www.mysqltutorial.org/mysql-basics/
 
-### Transactions
+### MariaDB
+
+MariaDB is a community-developed, commercially supported fork of the MySQL relational database management system, intended to remain free and open-source software under the GNU General Public License.
+
+https://mariadb.org/  
+https://www.mariadbtutorial.com/
+
+### PostgreSQL
+
+PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.
+
+https://www.postgresql.org/  
+https://www.postgresqltutorial.com/
+
+## NoSQL Databases
+
+NoSQL databases (aka "not only SQL") are non-tabular databases and store data differently than relational tables. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
+
+### MongoDB
+
+MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
+
+https://www.mongodb.com/  
+https://www.mongodbtutorial.org/  
+https://www.tutorialspoint.com/mongodb/index.htm
+
+### Amazon DynamoDB
+
+Amazon DynamoDB is a fully managed proprietary NoSQL database service that supports key–value and document data structures and is offered by Amazon.com as part of the Amazon Web Services portfolio.
+
+https://aws.amazon.com/dynamodb/  
+https://www.tutorialspoint.com/dynamodb/index.htm  
+https://aws.amazon.com/dynamodb/getting-started/
 
 ## Performance
 
