@@ -354,11 +354,19 @@ https://aws.amazon.com/dynamodb/
 https://www.tutorialspoint.com/dynamodb/index.htm  
 https://aws.amazon.com/dynamodb/getting-started/
 
-## Performance
+## Browser dev tools
 
-### Pagespeed
+Every modern web browser includes a powerful suite of developer tools. These tools do a range of things, from inspecting currently-loaded HTML, CSS and JavaScript to showing which assets the page has requested and how long they took to load.
 
-### Server side optimization
+https://developer.chrome.com/docs/devtools/overview/  
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
+
+## Pagespeed
+
+Use the following tools to analyze the pagespeed of your site.
+
+https://pagespeed.web.dev  
+https://www.webpagetest.org
 
 ## Web Security
 
