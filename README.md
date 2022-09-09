@@ -370,11 +370,25 @@ https://www.webpagetest.org
 
 ## Web Security
 
+Ensuring that your website or open web application is secure is critical. Even simple bugs in your code can result in private information being leaked, and bad people are out there trying to find ways to steal data.
+
 ### Security headers
+
+The OWASP Secure Headers Project (also called OSHP) describes HTTP response headers that your application can use to increase the security of your application. Once set, these HTTP response headers can restrict modern browsers from running into easily preventable vulnerabilities.
+
+https://owasp.org/www-project-secure-headers/
 
 ### CSP
 
+Content Security Policy (CSP) is an added layer of security that helps to detect and mitigate certain types of attacks, including Cross-Site Scripting (XSS) and data injection attacks. These attacks are used for everything from data theft, to site defacement, to malware distribution.
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
+
 ### OWASP Top 10
+
+The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+
+https://owasp.org/www-project-top-ten/
 
 ## APIs
 
