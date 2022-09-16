@@ -392,17 +392,51 @@ https://owasp.org/www-project-top-ten/
 
 ## APIs
 
+APIs (Application Programming Interface) are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, the weather bureau’s software system contains daily weather data.
+
 ### REST
 
-### Authentication
+REST is an acronym for REpresentational State Transfer and an architectural style for distributed hypermedia systems. A Web API (or Web Service) conforming to the REST architectural style is a REST API.
 
-- OAuth2
-- JWT
+https://restfulapi.net/  
+https://www.ibm.com/cloud/learn/rest-apis
 
-### Hardening APIs
+GraphQL
 
-- Rate limiting
-- Limit access
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
+
+https://graphql.org/learn/  
+https://www.tutorialspoint.com/graphql/index.htm
+
+## API Authentication
+
+### HTTP Basic Authentication
+
+HTTP Basic Authentication is the simplest form of identification. This technique combines username and password to form a single value and passes it through a special HTTP header known as authorization where they are encoded with Base64.
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication#basic_authentication_scheme
+https://rapidapi.com/blog/api-glossary/api-authentication/
+
+### API Key Authentication
+
+API keys were made as a fair fix for early issues of HTTP basic authentication and other comparable systems. It has unique identifiers for users each time they try to authenticate. It’s very suitable for applications that have several users seeking access.
+
+https://rapidapi.com/blog/api-glossary/api-authentication/  
+https://www.makeuseof.com/what-is-api-authentication/
+
+### OAuth 2.0
+
+OAuth 2.0 is the industry-standard protocol for authorization. OAuth 2.0 focuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, mobile phones, and living room devices.
+
+https://oauth.net/2/  
+https://www.tutorialspoint.com/oauth2.0/index.htm
+
+### JWT
+
+JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
+
+https://jwt.io/introduction  
+https://developer.okta.com/blog/2020/12/21/beginners-guide-to-jwt
 
 ## Terminal Usage
 
