@@ -440,9 +440,11 @@ https://developer.okta.com/blog/2020/12/21/beginners-guide-to-jwt
 
 ## Terminal Usage
 
-### Basics
+In development, sometimes you will be forced to use the command line since some operations are much easier to do via the command line. You will also be sometimes forced to use command line when accessing a server that has no desktop environment.
 
-### Some advanced stuff
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line  
+https://www.youtube.com/watch?v=yz7nYlnXLfE  
+https://www.youtube.com/watch?v=CV-ven_rxhw
 
 <br/><br/>
 This project is licensed under the terms of the [MIT license](https://choosealicense.com/licenses/mit/).
